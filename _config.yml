@@ -10,3 +10,4 @@ include:
 title: EliteTools Documentation
 description: Documentation for various tools
 show_downloads: false
+github.is_project_page: false
